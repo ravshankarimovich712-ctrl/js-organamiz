@@ -1,0 +1,6 @@
+{
+  "name": "JS Ustoz - JavaScriptdan Reactgacha",
+  "description": "JavaScript va Reactni bosqichma-bosqich o'rganish, interaktiv kod yozish, testlar va amaliy mashg'ulotlar platformasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
